@@ -5,6 +5,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+VAPID KEY:- {"publicKey":"BNMqpDPVzqJN1TyHTVgTnxKeFNy8M1ixHlANhJc_mm6HirFx_OAaBBbHwzgOWiKLfhLVmJgHQd9nF1GnwGMZMBM","privateKey":"iIZ_HsAWNooZ8ehFGXv9dVME8BlHJqdkPWnTbrk3RKo"}
 
 ## Code scaffolding
 
